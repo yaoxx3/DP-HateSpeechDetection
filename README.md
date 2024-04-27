@@ -20,7 +20,7 @@ EDA reveals a significant class imbalance within this dataset, as well as most o
 of dataset, we also provide [data undersampling](https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.RandomUnderSampler.html) and [oversampling](https://github.com/makcedward/nlpaug) 
 techniques. You can comment them out if it's not needed.
 ### Model training
-We utilize BERTSequenceClassifier as baseline model. To save computational resources, we currently freeze most of the layers and only train a few upper layers (BertPooler and Classifier).
+We utilize [BERTForSequenceClassification](https://huggingface.co/docs/transformers/en/model_doc/bert#transformers.BertForSequenceClassification) as the base model. To save computational resources, we currently freeze most of the layers and only fine tune a few upper layers (BertPooler and Classifier).
 You can comment out the freezing code snippet if you want to fine tune the full BERT model.
 ## Future work
 Further enhancements to our project could involve the adoption of more sophisticated differential privacy techniques such as personalized privacy, 
