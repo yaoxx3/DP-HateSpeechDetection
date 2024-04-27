@@ -32,7 +32,9 @@ Future work that would significantly contribute to this domain includes the expa
 ## Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/CindyKan"><img src="https://avatars.githubusercontent.com/u/17608784?v=4" width="100px;" alt=""/><br /><sub><b>Cindy Kan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/CindyKan"><img src="https://avatars.githubusercontent.com/u/17608784?v=4" width="100px;" alt=""/><br /><sub><b>Cindy Kan</b></sub></a><br /</td>
+    <td align="center"><a href="https://github.com/SagarPandita0"><img src="https://avatars.githubusercontent.com/u/61190999?v=4" width="100px;" alt=""/><br /><sub><b>Sagar Pandita</b></sub></a><br /</td>
+    <td align="center"><a href="https://github.com/prasiddha-sudhakar"><img src="https://avatars.githubusercontent.com/u/44575137?v=4" width="100px;" alt=""/><br /><sub><b>prasiddha-sudhakar</b></sub></a><br /</td>
   </tr>
 </table>
 
