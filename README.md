@@ -29,4 +29,10 @@ Additionally, incorporating other forms of privacy-preserving data transformatio
 noise may yield better performance.
 
 Future work that would significantly contribute to this domain includes the expansion of differentially private models to detect nuances within hate speech across different languages and cultures, as well as the integration of user feedback loops to improve model sensitivity to context and mitigate biases. Moreover, the development of a privacy-preserving model monitoring framework that could continuously assess and manage the trade-offs between privacy protection and model utility in a production environment would be a noteworthy progression. Implementing federated learning approaches, where training can be performed on decentralized data, might also enhance privacy by design and could be a pivotal step towards a new standard in privacy-preserving text analysis.
+## Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/CindyKan"><img src="https://avatars.githubusercontent.com/u/17608784?v=4" width="100px;" alt=""/><br /><sub><b>Cindy Kan</b></sub></a><br /></td>
+  </tr>
+</table>
 
